@@ -3,8 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ambersariya&label=Profile%20views&color=0e75b6&style=flat" alt="ambersariya" /> </p>
 
-- 🌱 I’m currently learning **AWS Solutions Architect Associate certification**
-
+<!-- - 🌱 I’m currently learning **AWS Solutions Architect Associate certification** -->
 - 💬 Ask me about **Python, PHP, AWS**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/danish-javed/](https://www.linkedin.com/in/danish-javed/)
