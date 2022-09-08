@@ -1,10 +1,17 @@
 <h1 align="center">Hi 👋, I'm Danish</h1>
-<h3 align="center">A passionate developer from the UK</h3>
+<h3 align="center">A passionate software developer from the UK</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ambersariya&label=Profile%20views&color=0e75b6&style=flat" alt="ambersariya" /> </p>
 
-<!-- - 🌱 I’m currently learning **AWS Solutions Architect Associate certification** -->
-- 💬 Ask me about **Python, PHP, AWS**
+<!-- - 🌱 I’m currently working towards my **AWS Solutions Architect Associate certification** -->
+- 💬 Ask me about 
+- Python
+- PHP
+- AWS
+  - Serverless
+- Containers
+- Test driven development
+- Clean code
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/danish-javed/](https://www.linkedin.com/in/danish-javed/)
 
