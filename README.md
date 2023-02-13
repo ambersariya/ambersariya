@@ -39,7 +39,7 @@ When it comes to working, I thrive in fast-paced, high-pressure environments and
 [Include links to your email, LinkedIn, Twitter, or any other relevant contact information. You can also include a short message inviting visitors to connect with you or check out your work.]
 You may reach me on:
 
-- ![LinkedIn](https://www.linkedin.com/in/danish-javed/)
-- ![Twitter](https://twitter.com/_ambersariya)
+- [LinkedIn](https://www.linkedin.com/in/danish-javed/)
+- [Twitter](https://twitter.com/_ambersariya)
 
 Thank you for visiting my Github profile! I'm always open to new opportunities, collaborations, and feedback, so don't hesitate to reach out.
