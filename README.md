@@ -18,8 +18,11 @@ When it comes to working, I thrive in fast-paced, high-pressure environments and
 - TDD
 - Extreme Programming
 
-<!-- ## My Projects
+## My Projects
 
+- [Katas](https://github.com/ambersariya/katas): I've solved some katas you can check out [here](https://github.com/ambersariya/katas)
+
+<!-- 
 [A list of your most notable or recent projects on Github, with a brief description of each and links to their repos. Make sure to highlight the key features, technologies, or challenges involved in each project.]
 
 - [Project 1](URL)
@@ -45,3 +48,5 @@ You may reach me on:
 - <a href="https://twitter.com/_ambersariya" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="20px" height="auto"/></a>
 
 Thank you for visiting my Github profile! I'm always open to new opportunities, collaborations, and feedback, so don't hesitate to reach out.
+
+<!-- Credits(Devicons): https://devicon.dev/ -->
