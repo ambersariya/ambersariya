@@ -1,6 +1,7 @@
 # Danish Javed
 
-![](https://media.licdn.com/dms/image/C5603AQFMTKZDsvT2aQ/profile-displayphoto-shrink_800_800/0/1594317868661?e=1681948800&v=beta&t=GOEdEQAGegy1c-YcdobmDmGo6T--yAopKnwyMk5FOL0)
+<img src="https://media.licdn.com/dms/image/C5603AQFMTKZDsvT2aQ/profile-displayphoto-shrink_800_800/0/1594317868661?e=1681948800&v=beta&t=GOEdEQAGegy1c-YcdobmDmGo6T--yAopKnwyMk5FOL0" width=25% height=25%>
+
 
 ## About Me
 
