@@ -21,25 +21,14 @@ When it comes to working, I thrive in fast-paced, high-pressure environments and
 
 - [Katas](https://github.com/ambersariya/katas): I've solved some katas you can check out [here](https://github.com/ambersariya/katas)
 
-<!-- 
-[A list of your most notable or recent projects on Github, with a brief description of each and links to their repos. Make sure to highlight the key features, technologies, or challenges involved in each project.]
-
-- [Project 1](URL)
-  - [A short description of Project 1, including its purpose, key features, and relevant technologies used.]
-- [Project 2](URL)
-  - [A short description of Project 2, including its purpose, key features, and relevant technologies used.]
-- [Project 3](URL)
-  - [A short description of Project 3, including its purpose, key features, and relevant technologies used.] -->
-
 ## My Awards & Recognitions
 
-- AWS Certified Solutions Architect – Associate
-- CompTIA Security+
+- [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/c821cdff-9653-48b6-936a-d3d75b497c07)
+- [CompTIA Security+](https://www.credly.com/badges/b5497757-cc17-47cd-8310-de48653e20b9)
 - Certified Scrum Product Owner (CSPO)
 
 ## Contact Me
 
-[Include links to your email, LinkedIn, Twitter, or any other relevant contact information. You can also include a short message inviting visitors to connect with you or check out your work.]
 You may reach me on:
 
 - <a href="https://www.linkedin.com/in/danish-javed/" target="_blank"><img width="20" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg" /></a>
