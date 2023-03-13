@@ -12,6 +12,8 @@ When it comes to working, I thrive in fast-paced, high-pressure environments and
 - Javascript
 - TDD
 - Extreme Programming
+- Clean Code
+- Clean Architecture
 
 ## My Projects
 
