@@ -8,6 +8,7 @@ When it comes to working, I thrive in fast-paced, high-pressure environments and
 
 - AWS
 - Python
+- Java
 - PHP
 - Javascript
 - TDD
