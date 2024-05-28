@@ -1,6 +1,6 @@
 # Danish Javed
 
-As a seasoned Backend Developer and co-organiser of [Software Crafters North](https://www.meetup.com/software-crafters-north), I am passionate about delivering top-notch software solutions. I've honed my skills in building and maintaining high-performance web applications that are both robust and scalable. I firmly believe in the power of TDD, clean architecture, and clean code principles to create the best possible outcomes for my clients.
+As a seasoned Backend Developer and co-organiser of [Software Crafters Manchester](https://www.meetup.com/software-crafters-manchester/), I am passionate about delivering top-notch software solutions. I've honed my skills in building and maintaining high-performance web applications that are both robust and scalable. I firmly believe in the power of TDD, clean architecture, and clean code principles to create the best possible outcomes for my clients.
 
 When it comes to working, I thrive in fast-paced, high-pressure environments and am committed to delivering quality results every time. I'm also an active member of the software development community and love sharing my knowledge and experiences to help others grow. Whether it's co-organising events like Software Crafters North or staying up-to-date on the latest industry developments, I'm always looking for ways to better myself and those around me.
 
