@@ -20,7 +20,7 @@ When it comes to working, I thrive in fast-paced, high-pressure environments and
 
 - [Katas](https://github.com/ambersariya/katas): I've solved some katas you can check out [here](https://github.com/ambersariya/katas)
 
-## My Awards & Recognitions
+## Certifications
 
 - [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/c821cdff-9653-48b6-936a-d3d75b497c07)
 - [CompTIA Security+](https://www.credly.com/badges/b5497757-cc17-47cd-8310-de48653e20b9)
