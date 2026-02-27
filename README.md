@@ -7,7 +7,7 @@ maintainable at scale.
 
 My focus is on clean architecture, domain modelling, and pragmatic
 engineering practices that reduce long-term complexity. I care about
-building software that teams can evolve confidently --- not just ship
+building software that teams can evolve confidently - not just ship
 quickly.
 
 ------------------------------------------------------------------------
