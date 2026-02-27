@@ -1,6 +1,6 @@
 # Danish Javed
 
-Senior Backend Engineer \| Systems Thinker \| Community Builder
+**Senior Backend Engineer \| Systems Thinker \| Community Builder**
 
 I design and build backend systems that are resilient, observable, and
 maintainable at scale.
