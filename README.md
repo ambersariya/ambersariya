@@ -46,8 +46,8 @@ https://github.com/ambersariya/katas
 
 ## Certifications
 
--   AWS Certified Solutions Architect -- Associate\
--   CompTIA Security+\
+-   AWS Certified Solutions Architect - Associate
+-   CompTIA Security+
 -   Certified Scrum Product Owner (CSPO)
 
 ------------------------------------------------------------------------
@@ -63,8 +63,7 @@ https://github.com/ambersariya/katas
 
 ## Connect
 
--   LinkedIn
--   Twitter
+<a href="https://www.linkedin.com/in/danish-javed/" target="_blank"><img width="20" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg" /></a>
 
 ------------------------------------------------------------------------
 
