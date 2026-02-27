@@ -15,9 +15,8 @@ quickly.
 ## Current Technical Focus
 
 -   Python / FastAPI
--   AWS (AppConfig, S3, EKS)
--   Feature flag architectures
--   Event-driven systems (Celery, SQS)
+-   AWS
+-   Event-driven systems
 -   Clean Architecture & Domain-Driven Design
 -   Testing strategies (TDD, architectural tests)
 -   Observability and system transparency
