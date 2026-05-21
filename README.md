@@ -44,7 +44,6 @@ https://github.com/ambersariya/katas
 
 - AWS Certified Solutions Architect – Associate
 - CompTIA Security+
-- Certified Scrum Product Owner (CSPO)
 
 ---
 
